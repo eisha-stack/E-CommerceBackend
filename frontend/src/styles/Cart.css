@@ -1,0 +1,14 @@
+.place-order-btn {
+  background: #388e3c;
+  color: #fff;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  margin-top: 1.5rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.place-order-btn:hover {
+  background: #2e7031;
+} 

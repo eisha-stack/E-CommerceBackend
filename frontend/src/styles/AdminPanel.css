@@ -1,0 +1,9 @@
+.success {
+  color: #388e3c;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+.admin-form button[disabled] {
+  opacity: 0.6;
+  cursor: not-allowed;
+} 
